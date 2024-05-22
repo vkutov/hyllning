@@ -1,0 +1,32 @@
+.card {
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+    width: 80%;
+    border-radius: 15px;
+    margin-bottom: 10px;
+  
+}
+img {
+    width: 60%;
+}
+.container {
+    padding: 12px 6px;
+    font-size:24px;
+}
+.main{
+    margin-top:15px;
+    font-size:18px;
+    padding:30px;
+    border-radius: 15px;
+    background-color:rgba(0, 0, 0, 0.2);
+    margin-bottom:15px;
+}
+.second{
+    margin-top:10px;
+    padding:10px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    margin-bottom:10px;
+}
+ul{
+    color:rgba(0, 0, 0, 0.4);
+}
